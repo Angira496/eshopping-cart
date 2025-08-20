@@ -12,27 +12,27 @@ The Category of this Project is WEB APPLICATION.
 1.3	Modules in the Project: -
 
 - Login Module
-	Admin Login
-	User Login
-	Administrator
-	Add & Edit Brand
-	Add & Edit Category
-	Add & Edit Sub Category
-	Add & Edit Size
-	Add Gender
-	User
-	Sign Up
-	View Products
-	Search Products
-	Add Cart
-	Buy Products
-	Product Management
-	Used for managing the information and details of the Product.
-	Payment Management
-	Used for managing the Payment information.
-	Cart Management
-	Used for managing the Payment information
-	Delivery Management
-	Used for managing the Delivery information
-	Report
+- Admin Login
+- User Login
+-	Administrator
+- Add & Edit Brand
+-	Add & Edit Category
+-	Add & Edit Sub Category
+-	Add & Edit Size
+-	Add Gender
+-	User
+-	Sign Up
+-	View Products
+-	Search Products
+-	Add Cart
+-	Buy Products
+-	Product Management
+-	Used for managing the information and details of the Product.
+-	Payment Management
+-	Used for managing the Payment information.
+-	Cart Management
+-	Used for managing the Payment information
+-	Delivery Management
+-	Used for managing the Delivery information
+-	Report
 
